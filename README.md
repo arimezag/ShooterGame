@@ -1,6 +1,6 @@
 # ShooterGame
 
-
+Arianna Meza. https://github.com/arimezag/ShooterGame.git 
 
 ## Practice with Classes, Booleans, Strings, and Event Handling
 
